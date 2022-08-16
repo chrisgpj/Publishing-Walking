@@ -1,6 +1,17 @@
 # Publishing Walking
 The purpose of this project is to craft a pathway from valid TEI XML markup through to a high-quality typesetting of _Walking_ by Henry David Thoreau for physical publication.
 
+Publishing _Walking_ will act as a prototype and proof of concept for a workflow that can be applied to other texts.
+
+Overall, the workflow aims for accessibility, so that it can be a foundation for more complicated projects. My rough idea is as follows:
+(1) Obtain a legal, copy-right free plain-text version of the text for publication
+(2) Compile references needed for project, such as reference images to help with typesetting, or other sources if the publication is to include notes and essays.
+(3) Markup the text using XML (Exstensible Markup language), using the TEI (Text Encoding Initiative) schema.
+(4) Write a python Script to help convert the text to as simple LaTex markup.
+(5) Map out a tree of more complicated customisation options for LaTex so that the text can be presented in different ways.
+(6) Add the scripts and codes into a bank of templates that help to streamline future publications.
+(7) Write a rigorous documentation so that the above process is replicable, and can also be used by those who have little experience, but are willing to learn more.
+
 ## Why it begins with XML
 Markup in XML, and the TEI schema in particular, has the benefit of clarity and fully descriptive markup, and it encourages exposition. Things like the manuscript description abilities of TEI XML are hugely important typesetting alone, and only become more so if editorial comments or essays are undertaken. An immediate example that comes to mind is the characteristic use of the *,-* punctuation, a period-idiosyncracy that, if preserved, adds charm to the text and allows a more accurate reading - but it has to be rendered sensitively in the typesetting for this to be achieved.
 
