@@ -1,24 +1,9 @@
 # Publishing Walking
-The purpose of this project is to craft a pathway from valid TEI XML markup through to a high-quality typesetting of _Walking_ by Henry David Thoreau for physical publication.
 
-Publishing _Walking_ will act as a prototype and test-of-concept for a workflow that can be applied to other texts.
+In October 2022 I prepared a publicaiton of Walking, by Henry David Thoreau. The purpose of the publicaiton was to make the physical books using. The project is steeped in handcraft.
 
-Overall, the workflow aims for accessibility, so that it can be a foundation for more complicated projects. My rough idea is as follows:\
-(1) Obtain a legal, copy-right free plain-text version of the text for publication\
-(2) Compile references needed for project, such as reference images to help with typesetting, or other sources if the publication is to include notes and commentary (note that if this is done, the time put into that stage of scholarly work would entirely eclipse that of the technical typesetting).\
-(3) Markup the text using XML (Exstensible Markup language), using the TEI (Text Encoding Initiative) schema.\
-(4) Write a python Script to help convert the text to a simple LaTex markup.\
-(5) Map out a tree of more complicated customisation options for LaTex so that the text can be presented in different ways.\
-(6) Add the scripts and codes into a bank of templates that help to streamline future publications.\
-(7) Write a rigorous documentation so that the above process is replicable, and can also be used by those who have little experience, but are willing to learn more.
+After some consideration, I have decided to make my contributions available. This includes my efforts in preparing the manuscript, a citation scheme, and various notes on the text. Please see the copyright page of the publication for more information.
 
-## Why it begins with XML rather than typesetting
-Markup in XML, and the TEI schema in particular, has the benefit of clarity and a fully descriptive markup, and it encourages exposition. Things like the manuscript description abilities of TEI XML are hugely important typesetting alone, and only become more so if editorial comments or essays are undertaken. An immediate example that comes to mind in _Walking_ is the use of the *,-* punctuation, a period-idiosyncracy that, if preserved, adds charm to the text and allows a more accurate reading - but it has to be rendered sensitively in the typesetting for this to be achieved. It can easily be imagined that rendering tags and information in the TEI header could help with this and other, similar challenges.
+Over the last decades of material excess in the developed nations, we have been able to pay for unneccessary non-material services, while neglecting some of those unpaid services which give us the most joy, or in some cases entirely overlooking deeply essential paid services; despite material needs being met so prolifically, commuinities have lost the ability to find enjoyement in making things — even when doing so would be an astonishing efficiency, working in cooperation with modern technology.
 
-## Where it will end up
-The typesetting will be done using TeX or LaTeX. A benefit of typesetting with TeX is that almost everyone can replicated the process for free.
-
-## Why a workflow is necesary
-This project aims to explore and ultimately implement custom-written codes in Python programming language rather than using tools like XLST and OxGarage. The former is highly dependent on XML parsing software, and the latter creates an overly complicated typesetting without embracing customisation of the process. I am seeking a middle-ground that is more accessible than third-party software, but still quite involved; something that is a modular part of a thoughtful typesetting project that requires care and time spend learning some fundamentals at each stage.
-
-In doing this project I am exploring the idea that a workflow using free open-source software can be well-documented such that it opens accessibility to at least a few more people. The idea is inspired by my appreciation some of the good documentation I have seen in the past. One result of this idea will be the elimination of assumptions. It will not be assumed that the people interested in replicating the workflow have a certain paid-software, or a particular programming knowledge. Instead, I will take people on the journey that I will have to go on to complete this project, linking the resources and writing the explanations necessary to ensure robustness and replicability. My desire to do this is inspired by some of the good-quality doucmentation that I have seen and appreciated. I hope that the only assumption that remains will be the ability to put time and effort into carefully reading, comprehending, and practicing.
+For this publication, I am a maker: whatever payment I recieve is a modest wage for this alone. I live in a modern industrial nation-state. Handcraft is no always a practical thing to do for a living, and I have made way doing other things as well — I continue to do some of these things, since I consider them necessary. However, there comes a time when I, for once, want payment to come from a responsible engagement with materials, rather than from an unneccessary service that I feel to be reliant on the irresponsible use of materials. There is room enough in the society for much more than we realise, especially when it comes to activities which do more with less. We should try and realise that soon, because the future will be much better for it.
