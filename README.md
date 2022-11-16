@@ -23,7 +23,7 @@ Everyone who has supported me and purchased my books.
 
 ## How To Give Credit
 
-It will be seen on the front copyright page that you must credit to me when you do distribute or use the text. The initals used in the book are C.G.P.J.; my name is Christopher Jolly. Whether you have to use my name, or not, depends on what part of the text you are working with.
+It will be seen from the front copyright page that you must credit to me when you do distribute or use the text. The initals used in the book are C.G.P.J.; my name is Christopher Jolly. Whether you have to use my name, or not, depends on what part of the text you are working with.
 
 ~ Chris<br>
 _Adelaide, 16 November, 2022_
