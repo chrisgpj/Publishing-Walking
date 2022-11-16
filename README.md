@@ -1,9 +1,29 @@
 # Publishing Walking
 
-In October 2022 I prepared a publicaiton of Walking, by Henry David Thoreau. The purpose of the publicaiton was to make the physical books using. The project is steeped in handcraft.
+## Introduction
+In October 2022, I prepared a publicaiton of Walking, by Henry David Thoreau. The purpose of the publicaiton was to use of my skills as a craftsman to make physical books. 
 
-After some consideration, I have decided to make my contributions available. This includes my efforts in preparing the manuscript, a citation scheme, and various notes on the text. Please see the copyright page of the publication for more information.
+The work I put into preparing the actual text was significant. However, I have decided to make that contirbution available. This includes my efforts in preparing the digital manuscript, a citation scheme, and notes of the text. 
 
-Over the last decades of material excess in the developed nations, we have been able to pay for unneccessary non-material services, while neglecting some of those unpaid services which give us the most joy, or in some cases entirely overlooking deeply essential paid services; despite material needs being met so prolifically, commuinities have lost the ability to find enjoyement in making things — even when doing so would be an astonishing efficiency, working in cooperation with modern technology.
+For this publication, I want to be paid as a maker, only.
 
-For this publication, I am a maker: whatever payment I recieve is a modest wage for this alone. I live in a modern industrial nation-state. Handcraft is no always a practical thing to do for a living, and I have made way doing other things as well — I continue to do some of these things, since I consider them necessary. However, there comes a time when I, for once, want payment to come from a responsible engagement with materials, rather than from an unneccessary service that I feel to be reliant on the irresponsible use of materials. There is room enough in the society for much more than we realise, especially when it comes to activities which do more with less. We should try and realise that soon, because the future will be much better for it.
+Handcraft is going against the grain in a society that has so many abstract, non-material services, which has distanced itself so much from material and ecological processes. Even jobs directly involved with sustainability are prone to this phenomenon. I am equipped for such work and often enjoy it. However, I have decided that it is important to go against the grain, now and then. Therefore, I am seeking a modest wage for that which would often be  off-sourced; and I am doing what work I can that would usually belong to a high-paid service job in my own time.
+
+## Repository Contents
+
+The pdf of Walking supplied here is **not** the same one I have used for physical publication. The version here is prepared for digital reading.
+
+## Copyright
+
+See the front copyright page in the pdf of _Walking_.
+
+## Thanks are Given To:
+
+Everyone who has supported me and purchased my books.
+
+## How To Give Credit
+
+It will be seen on the front copyright page that you must credit to me when you do distribute or use the text. The initals used in the book are C.G.P.J.; my name is Christopher Jolly. Whether you have to use my name, or not, depends on what part of the text you are working with.
+
+~ Chris<br>
+_Adelaide, 16 November, 2022_
